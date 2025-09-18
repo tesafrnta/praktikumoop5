@@ -71,17 +71,17 @@
   <header>
     <h1>Praktikum OOP Ke - 5</h1>
   </header>
-  <div class="container">
-        <h2>Praktikum 5</h2>
-        <p> Implementasikan kode PHP dari Class Diagram untuk segitiga </p>
+  <main>
+    <section>
+      <h2>Praktikum 5</h2>
       <ul>
-        <il></il><a href="classobjek.php">Modul 1: Object Class</a></il>
-        <il></il><a href="enkapsulasi.php">Modul 2: Enkapsulasi</a></il>
+        <li><a href="classobjek.php">Modul 1: Object Class</a></li>
+        <li><a href="enkapsulasi.php">Modul 2: Enkapsulasi</a></li>
       </ul>
-    </div>
+    </section>
+  </main>
   <footer>
     <p>© 2025 Terima Kasih.</p>
   </footer>
 </body>
 </html>
-
