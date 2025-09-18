@@ -75,8 +75,8 @@
     <section>
       <h2>Praktikum 5</h2>
       <ul>
-        <a href="classobjek.php">Modul 1: Object Class</a>
-        <a href="enkapsulasi.php">Modul 2: Enkapsulasi</a>
+        <il></il><a href="classobjek.php">Modul 1: Object Class</a></il>
+        <il></il><a href="enkapsulasi.php">Modul 2: Enkapsulasi</a></il>
       </ul>
     </section>
   </main>
